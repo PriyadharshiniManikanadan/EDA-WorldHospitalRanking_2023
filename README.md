@@ -14,7 +14,7 @@
 
 ##Console Output:
 
-"C:\Users\priya\Desktop\DATA SCIENCE\venv\Scripts\python.exe" "C:\Users\priya\Desktop\DATA SCIENCE\Projects\EDA\EDA Project.py" 
+#C:\Users\priya\Desktop\DATA SCIENCE\venv\Scripts\python.exe" "C:\Users\priya\Desktop\DATA SCIENCE\Projects\EDA\EDA Project.py" 
                                        Hospital Name  ... Scholarship Score
 0                                   Cleveland Clinic  ...              11.0
 1               St Jude Children's Research Hospital  ...              37.0
