@@ -46,3 +46,22 @@ https://hospitals.webometrics.info/en/world
 [Link for Dataset](https://www.kaggle.com/code/bugmakerbgbg/eda-world-hospital-rankings-2023/input)
 
 # Give Thumbs Up & Share 
+
+## Visualization
+
+
+![alt text](https://github.com/PriyadharshiniManikanadan/EDA-WorldHospitalRanking_2023/blob/main/CountplotCountry&HospitalTop50.png?raw=true)
+
+![alt text](https://github.com/PriyadharshiniManikanadan/EDA-WorldHospitalRanking_2023/blob/main/HistplotCountryVisibilityTop50.png?raw=true)
+
+![alt text](https://github.com/PriyadharshiniManikanadan/EDA-WorldHospitalRanking_2023/blob/main/PairplotTop50.png?raw=true)
+
+![alt text](https://github.com/PriyadharshiniManikanadan/EDA-WorldHospitalRanking_2023/blob/main/BoxplotCountryHospitalSizeTop50.png?raw=true)
+
+![alt text](https://github.com/PriyadharshiniManikanadan/EDA-WorldHospitalRanking_2023/blob/main/BarplotHospitalScholarshipScoreTop50.png?raw=true)
+
+![alt text](https://github.com/PriyadharshiniManikanadan/EDA-WorldHospitalRanking_2023/blob/main/BarplotHospitalRichFilesTop50.png?raw=true)
+
+![alt text](https://github.com/PriyadharshiniManikanadan/EDA-WorldHospitalRanking_2023/blob/main/BarplotHospitalVisibilityTop50.png?raw=true)
+
+![alt text](https://github.com/PriyadharshiniManikanadan/EDA-WorldHospitalRanking_2023/blob/main/BarplotHospitalHospitalSizeTop50.png?raw=true)
