@@ -30,7 +30,7 @@ Data related to any rich files associated with the hospitals, which could be val
 ### Scholarship: 
 Scholarly or academic scores for hospitals, reflecting their contributions to research and education.
 
-## What are all libraries used: 
+## Libraries used: 
 - Pandas
 - NumPy 
 - Matplotlib 
